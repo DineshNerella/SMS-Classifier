@@ -32,7 +32,7 @@ To replicate this project:
   ```
 
 2. **Run Jupyter Notebook**:
-- Open the Jupyter Notebook `sms_spam_classification.ipynb` in your preferred Python environment.
+- Open the Jupyter Notebook `SMS-Classifier.ipynb` in your preferred Python environment.
 - Follow the instructions in the notebook to preprocess the data, train the classification model, and evaluate its performance.
 
 
