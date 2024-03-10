@@ -20,10 +20,7 @@ The dataset used for this project typically consists of a collection of SMS mess
 ## Usage Instructions
 
 To replicate this project:
-
-1. **Clone Repository**:
-
-2. **Install Dependencies**:
+1. **Install Dependencies**:
 - Make sure you have Python installed on your system.
 - Navigate to the repository directory:
   ```
@@ -34,7 +31,7 @@ To replicate this project:
   pip install -r requirements.txt
   ```
 
-3. **Run Jupyter Notebook**:
+2. **Run Jupyter Notebook**:
 - Open the Jupyter Notebook `sms_spam_classification.ipynb` in your preferred Python environment.
 - Follow the instructions in the notebook to preprocess the data, train the classification model, and evaluate its performance.
 
