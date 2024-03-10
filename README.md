@@ -12,8 +12,8 @@ The dataset used for this project typically consists of a collection of SMS mess
 
 ## Directory Structure
 
-- **data/**: This directory contains the dataset file `sms_spam.csv`.
-- **notebooks/**: This directory contains the Jupyter Notebook `sms_spam_classification.ipynb`, where the model development and evaluation are performed.
+- **data/**: This directory contains the dataset Zip file `spam.csv`.
+- **notebooks/**: This directory contains the Jupyter Notebook `SMS-Classifier.ipynb`, where the model development and evaluation are performed.
 - **README.md**: This README file providing instructions and information about the project.
 - **requirements.txt**: This file contains a list of Python dependencies required to run the code.
 
